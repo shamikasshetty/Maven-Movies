@@ -23,4 +23,4 @@ Leverage your SQL skills to extract and analyze data from various tables inn the
 7. We are interested in having you put payment monitoring systems and maximum payment processing restrictions in place in order to minimize the future risk of fraud by your staff. Please provide the average payment you process, as well as the maximum payment you have processed.
 8. We would like to better understand what your customer base looks like. Please provide a list of all customer identification values, with a count of rentals they have made all-time, with your highest volume customers at the top of the list.
 
-### This Project was completed with Maven Analysts SQL Certificate course: https://www.udemy.com/certificate/UC-9e6cedd3-2f87-4e86-8e22-ac5190255274/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
+### This Project was completed with Maven Analytics SQL Certificate course: https://www.udemy.com/certificate/UC-9e6cedd3-2f87-4e86-8e22-ac5190255274/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
